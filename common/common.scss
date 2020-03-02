@@ -1,10 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700");
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Roboto&display=swap');
 @import "common/foundation/variables"; // Pulls in Discourse SASS variables
 
 // Global styles
 
 html {
-  font-family: "Source Serif Pro", serif;
+  font-family: "Playfair Display", serif;
   font-size: 16px;
 }
 
