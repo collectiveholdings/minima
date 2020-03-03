@@ -11,6 +11,7 @@ html {
 
 p {
   font-family: Roboto, sans-serif;
+  color: #888;
 }
 
 .select-kit.combo-box .select-kit-header,
@@ -29,6 +30,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"] {
   border-color: $primary-low-mid;
+  font-family: Roboto, sans-serif;
 }
 
 tbody {
